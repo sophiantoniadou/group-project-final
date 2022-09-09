@@ -28,3 +28,12 @@ p {
   color: red;
   text-align: center;
 }
+
+.list {
+  color: white;
+}
+
+li:hover {
+  font-size: 1.2em;
+  transition: 0.6ease;
+}
