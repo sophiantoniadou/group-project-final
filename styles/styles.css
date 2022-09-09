@@ -38,8 +38,8 @@ li:hover {
   transition: 0.6ease;
 }
 
-#logo {
-  margin: 25px auto 0 auto;
+.logo {
+  margin: 25px auto 10px auto;
   font-family: 'Anton', sans-serif;
 }
 
